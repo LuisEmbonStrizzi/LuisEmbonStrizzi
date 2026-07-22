@@ -7,7 +7,7 @@ I build agentic systems end to end — from models implemented from scratch in N
 
 ## Highlights
 
-- 🏆 **Winner — Anthropic × Kaszek × Digital House hackathon** (Apr 2026): 1st place in e-commerce and 2nd overall among 55 teams. Now building **Listeo**, an AI commerce OS for Mercado Libre sellers (FastAPI · DSPy · Claude · Supabase).
+- 🏆 **Winner — Anthropic × Kaszek × Digital House hackathon** (Apr 2026): 1st place in e-commerce and 2nd overall among 55 teams. Now building **[Prompty](https://prompty-ashen-alpha.vercel.app)**, an AI listing optimizer for Mercado Libre (FastAPI · DSPy · Claude · Supabase) — in public beta.
 - 🤖 Building an **agentic dispute-resolution platform** for fintech: Claude agents orchestrated with n8n over Postgres/MongoDB, grounded with RAG.
 - 🚗 **Multimodal trajectory prediction with a CVAE** on the rounD roundabout dataset — final project for I302, presented as a poster at UdeSA AI Fest 2026.
 - 🩺 Applied computer vision for **pediatric dermatology**, in collaboration with a physician from Hospital Italiano de Buenos Aires.
